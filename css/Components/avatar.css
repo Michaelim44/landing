@@ -1,0 +1,13 @@
+.avatar {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.contact .avatar {
+  width: 200px;
+  height: 200px;
+  object-position: center 30%;
+  margin-bottom: 16px;
+}
